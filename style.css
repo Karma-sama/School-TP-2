@@ -1,0 +1,16 @@
+.content {
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.op {
+    opacity: 0.5;
+}
+
+img {
+    width: 50px;
+}
